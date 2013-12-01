@@ -12,10 +12,10 @@ body h1 {
 	 height: 700px;
 }
 
-.section h1{
-	 margin-top: 200px;
-}
-
 h1 {
 	color:white;
+}
+
+.main_content {
+	margin-top: 200px;
 }

@@ -7,6 +7,7 @@
     "aws-sdk": "latest",
     "express": "latest",
     "handlebars": "latest",
+    "mongoose": "latest",
     "express3-handlebars": "latest"
   },
   "devDependencies": {
