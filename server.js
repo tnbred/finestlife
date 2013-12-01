@@ -15,6 +15,10 @@ app.set("view engine", "handlebars");
 app.use(express.static(path.join(__dirname, 'views/public')));
 
 app.get("/", controllers.home);
+app.get("/healthcheck", controllers.healthcheck);
+app.get("/whisky", controllers.home);
+app.get("/pate", controllers.home);
+app.get("/cheese", controllers.home);
 
 app.listen(config.FinestLife.port);
 console.log('Listening on port '+ config.FinestLife.port );
