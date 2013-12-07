@@ -23,7 +23,7 @@ module.exports = function(req, res) {
       });
     } else {
       res.render(
-        "boss/category", {
+        "category/create", {
           metaData: req.metaData
         }
       );

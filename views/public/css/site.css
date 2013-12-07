@@ -8,8 +8,17 @@ body h1 {
 }
 
 .section {
-	 background-image: url(img/test.svg);
+  	 background: url(img/test.svg) fixed no-repeat;
+     -webkit-background-size: cover;
+     -o-background-size: cover;
+     -moz-background-size: cover;
+     background-size: cover;
 	 height: 700px;
+}
+
+.row {
+	margin-right: 0px;
+	margin-left: 0px;
 }
 
 h1 {
@@ -18,4 +27,8 @@ h1 {
 
 .main_content {
 	margin-top: 200px;
+}
+
+.articles {
+	margin-top: 100px;
 }

@@ -34,7 +34,7 @@ app.all("/*", mw.checkSessions(publicRoutes));
 
 app.get("/", controllers.home);
 app.get("/healthcheck", controllers.healthcheck);
-app.get("/category/:name", controllers.home);
+app.get("/category/:name", controllers.category.show);
 
 
 //Admin
@@ -43,10 +43,10 @@ app.get("/boss", controllers.boss.login);
 app.post("/boss", controllers.boss.login);
 app.get("/boss/register", controllers.boss.register);
 app.post("/boss/register", controllers.boss.register);
-app.get("/boss/article", controllers.boss.article);
-app.post("/boss/article", controllers.boss.article);
-app.get("/boss/category", controllers.boss.category);
-app.post("/boss/category", controllers.boss.category);
+app.get("/boss/article", controllers.article.create);
+app.post("/boss/article", controllers.article.create);
+app.get("/boss/category", controllers.category.create);
+app.post("/boss/category", controllers.category.create);
 
 app.listen(config.FinestLife.port);
 console.log('Listening on port '+ config.FinestLife.port );

@@ -14,11 +14,11 @@ module.exports = {
         active
       ));
     categories.forEach(function(category) {
-      active = ("/category/" + category.name === url) ? "active" : "" 
+      active = ("/category/" + category.formattedName === url) ? "active" : "" 
       list.push(Util.format(
         "<li class=\"%s\"><a href=\"/category/%s\">%s</a></li>",
         active,
-        category.name,
+        category.formattedName,
         category.description
       ));
     });

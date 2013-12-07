@@ -8,7 +8,8 @@
     "express": "latest",
     "handlebars": "latest",
     "mongoose": "latest",
-    "express3-handlebars": "latest"
+    "express3-handlebars": "latest",
+    "date-format-lite":"latest"
   },
   "devDependencies": {
     "nodeunit": "latest"
