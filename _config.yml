@@ -1,0 +1,11 @@
+# Site settings
+name: FinestLife
+title: The FinestLife
+email: finestlife.co@gmail.com
+description: "We are a few crazy food lovers that decided to share with you their love of good products."
+baseurl: ""
+url: "http://finestlife.co"
+
+# Build settings
+markdown: kramdown
+permalinks: pretty

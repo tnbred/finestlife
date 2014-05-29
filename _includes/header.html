@@ -1,0 +1,30 @@
+<nav class="navbar navbar-inverse" role="navigation">
+
+<div class="col-md-offset-1 col-md-10"> 
+
+  <div class="navbar-header navbar-right">
+     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    <a class="navbar-brand" href="/">The Finest Life.</a>
+  </div>
+
+  <!-- Collect the nav links, forms, and other content for toggling -->
+  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <ul class="nav navbar-nav">
+      {% for category in site.data.categories %}
+        {% if category.name == page.category %}
+          <li class="active"><a href="/{{ category.link }}">{{ category.desc }}</a></li>
+        {% else %}
+          <li class=""><a href="/{{ category.link }}">{{ category.desc }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+    
+  </div><!-- /.navbar-collapse -->
+  </div>
+</nav>

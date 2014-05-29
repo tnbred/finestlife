@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+     {% include head.html %}
+  <body>
+    
+    <div class="row">
+      {% include header.html %}
+    </div>
+
+    <div class="row full-screen">
+       {{ content }}
+    </div>
+
+    <div class="row">
+      {% include footer.html %}
+    </div>
+
+    {% include js.html %}
+  </body>
+</html>

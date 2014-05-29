@@ -1,0 +1,15 @@
+- name: index
+  link: 
+  desc: Home
+
+- name: whisky
+  link: whisky
+  desc: Connaisseur Whiskies
+
+- name: pate
+  link: pate
+  desc: Premium Paté
+
+- name: cheese
+  link: cheese
+  desc: Gourmet Cheese
