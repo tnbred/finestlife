@@ -1,12 +1,13 @@
 body {
 	font-family: 'Lato', sans-serif;
 	font-size: 16px;
-	background-color:#E67224;
 	background: url(img/test.svg) fixed no-repeat;
-     -webkit-background-size: cover;
-     -o-background-size: cover;
-     -moz-background-size: cover;
-     background-size: cover;
+     -webkit-background-size: Auto 200px;
+     -o-background-size: Auto 200px;
+     -moz-background-size: Auto 200px;
+     background-size: Auto 200px;
+	background-color:#003803;
+	background-position: center 100px;
 }
 
 body h1 {
@@ -19,12 +20,11 @@ body h1 {
 }
 
 h1 {
-	color:white;
-	font-weight: bold;
+	color:#AA5300;
 }
 
 .main_content {
-	margin-top: 100px;
+	margin-top: 200px;
 }
 
 .articles {
