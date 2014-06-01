@@ -1,9 +1,16 @@
 ---
 layout: post
-title:  "Pate 1"
-date:   2014-05-29 10:34:11
-categories: pate
-author: Ari
+title:  "Ardberg Uigeadail"
+date:   2014-05-29 10:32:11
+categories: whisky
+author: Zrhomas
+img: whisky1.jpg
+grade1: 50
+grade2: 60
+grade3: 70
+grade4: 80
+total: 90
+grades : 80 10
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

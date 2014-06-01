@@ -3,12 +3,51 @@ layout: default
 category: index
 ---
 
-<div class="section row"> 
-
-<div class="col-md-offset-2 col-md-8 main_content">
-<h1><p class="text-center">FinestLife Whiskies & Pâtés will offer you educated opinions on genuine goods.<br/>
-Our Website is currently under construction.<br/>
-We invite you to leave your email address in order to be informed of the completion.</p></h1>
+<div class="col-md-9 articles well">
+       {% for post in site.posts %}
+       <div class="row">
+       	<h1>Review of {{post.title}} <small class="pull-right">by {{ post.author }} {{ post.date | date_to_string }}</small> </h1>
+       </div>
+       <div class="row">
+       	<div class="col-md-4">
+       		<img src="/img/{{ post.img }} " class="img-responsive img-rounded" alt="Responsive image"><br>
+       		<div class="progress">
+  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="{{post.grade1}}" aria-valuemin="0" aria-valuemax="100" style="width: {{post.grade1}}%">
+  </div>
 </div>
+<div class="progress">
+  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="{{post.grade2}}" aria-valuemin="0" aria-valuemax="100" style="width: {{post.grade2}}%">
+  </div>
+</div>
+<div class="progress">
+  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="{{post.grade3}}" aria-valuemin="0" aria-valuemax="100" style="width: {{post.grade3}}%">
+  </div>
+</div>
+<div class="progress">
+  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="{{post.grade4}}" aria-valuemin="0" aria-valuemax="100" style="width: {{post.grade4}}%">
+  </div>
+</div>
+<div class="progress">
+  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="{{post.total}}" aria-valuemin="0" aria-valuemax="100" style="width: {{post.total}}%">
+  </div>
+</div>
+       	</div>
+       	<div class="col-md-8">
+       		{{ post.content }}
+       	</div>
+       </div>
+
+	
+      {% endfor %}
+
+</div>
+<div class="col-md-3 home-sidebar col-md-offset-9" data-spy="affix">
+	<img src="/img/test.svg" class="img-responsive img-rounded" alt="Responsive image"><br>
+	<ul class="nav nav-list">
+		{% for category in site.data.categories %}
+		<li><a href="/">{{category.desc}}</a></li>
+      {% endfor %}
+  </ul>
+  </div>
 
 </div>

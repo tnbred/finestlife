@@ -1,0 +1,11 @@
+- name: index
+  link: 
+  desc: Home
+
+- name: about
+  link: about
+  desc: About
+
+- name: contact
+  link: contact
+  desc: Contact

@@ -1,7 +1,3 @@
-- name: index
-  link: 
-  desc: Home
-
 - name: whisky
   link: whisky
   desc: Connaisseur Whiskies
