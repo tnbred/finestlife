@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ardberg Uigeadail"
+title:  "Ardbeg Uigeadail"
 date:   2014-05-29 10:32:11
 categories: whisky
 author: Zrhomas

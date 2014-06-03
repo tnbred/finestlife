@@ -1,11 +1,11 @@
 - name: whisky
   link: whisky
-  desc: Connaisseur Whiskies
+  desc: Connoisseur Whiskies
 
 - name: pate
   link: pate
-  desc: Premium Paté
+  desc: Premium Pâtés
 
 - name: cheese
   link: cheese
-  desc: Gourmet Cheese
+  desc: Gourmet Cheeses
