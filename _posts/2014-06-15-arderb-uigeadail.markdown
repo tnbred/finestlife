@@ -4,11 +4,10 @@ title:  "Ardbeg Uigeadail"
 date:   2014-06-15 10:32:11
 categories: whisky
 author: Thomas
-img: whisky1.jpg
+img: whisky/uigeadail.jpg
 grade1: 94
 grade2: 93
 grade3: 96
-grade4: 95
 total: 95
 ---
 
