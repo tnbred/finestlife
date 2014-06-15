@@ -1,16 +1,15 @@
 ---
 layout: post
 title:  "Ardbeg Uigeadail"
-date:   2014-05-29 10:32:11
+date:   2014-06-15 10:32:11
 categories: whisky
 author: Thomas
 img: whisky1.jpg
-grade1: 95
-grade2: 95
-grade3: 70
-grade4: 80
-total: 90
-grades : 80 10
+grade1: 94
+grade2: 93
+grade3: 96
+grade4: 95
+total: 95
 ---
 
 
@@ -46,10 +45,10 @@ What's striking about the oog is the smoothness of the transitions, I think that
 It's really my kind of drink, it has many amazing flavors and is peated, it's the kind of scotch you could rediscover every time you taste it. It's always a different spirit.
 
 #Score
-Nose: 95/100
-Palate: 95/100
-Finish: 95/100
-Overall: 95/100
+Nose: {{page.grade1}}/100
+Palate: {{page.grade2}}/100
+Finish: {{page.grade3}}/100
+Overall: {{page.grade4}}/100
 
 Most Similar To: Lagavulin 16
 
