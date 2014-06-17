@@ -15,7 +15,7 @@ total: 95
 
 #Introduction
 
-Ardeg uigeadail ( oog-a-dal ) is an establishment , a monument of whiskies. The uigeadail is little known to outsiders from the whisky community however for the amateur the uigdeadail is an institution. The oog is a slam dunk for most whisky lovers out there, it's complex, has little bite and very savory. Personally it's my number one scotch. I remember vividly the first glass I had and how it opened my eyes to the richness of Islays. It took some time for me to be able to grasp all the power from the oog, but now I couldn't imagine not having a bottle at home. It is my pleasure today to try to share my enthusiasm for this nectar, let me take you on this amazing tasting journey.
+Ardbeg uigeadail ( oogA-a-dal ) is an establishment , a monument of whiskies. The uigeadail is little known to outsiders from the whisky community however for the amateur the uigdeadail is an institution. The oog is a slam dunk for most whisky lovers out there, it's complex, has little bite and very savory. Personally it's my number one scotch. I remember vividly the first glass I had and how it opened my eyes to the richness of Islays. It took some time for me to be able to grasp all the power from the oog, but now I couldn't imagine not having a bottle at home. It is my pleasure today to try to share my enthusiasm for this nectar, let me take you on this amazing tasting journey.
 
 #Nose
 This is where it all starts. I like to have two kinds of nose impression, the bottle and the glass.
