@@ -5,10 +5,20 @@ date:   2014-06-15 10:32:11
 categories: whisky
 author: Thomas
 img: whisky/uigeadail.jpg
-grade1: 94
-grade2: 93
-grade3: 96
-total: 95
+grades:
+  -
+    name: Nose
+    points: 94
+  -
+    name: Palate
+    points: 93
+  -
+    name: Finish
+    points: 96
+  -
+    name: Overall
+    points: 95
+    class: progress-bar-warning
 ---
 
 
@@ -43,12 +53,8 @@ Golden but not opaque
 What's striking about the oog is the smoothness of the transitions, I think that really binds together all the different savors of this elixir.
 It's really my kind of drink, it has many amazing flavors and is peated, it's the kind of scotch you could rediscover every time you taste it. It's always a different spirit.
 
-#Score
-Nose: {{page.grade1}}/100
-Palate: {{page.grade2}}/100
-Finish: {{page.grade3}}/100
-Overall: {{page.total}}/100
-
 Most Similar To: Lagavulin 16
 
 Buy Again? Definitely.
+
+#Score
