@@ -8,7 +8,12 @@
     </div>
 
     <div class="row full-screen">
-       {{ content }}
+      <div class="col-md-8 col-md-offset-2 articles well">
+
+        {% assign post = page %}
+        {% include post.html %}
+              
+     </div>
     </div>
 
     <div class="row">
