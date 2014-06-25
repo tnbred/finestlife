@@ -11,7 +11,7 @@ category: index
 	<img src="/img/062B00.svg" class="img-responsive img-rounded" alt="Responsive image"><br>
 	<ul class="nav nav-list">
 		{% for category in site.data.categories %}
-		<li><a href="/">{{category.desc}}</a></li>
+		<li><a href="/{{category.link}}">{{category.desc}}</a></li>
       {% endfor %}
   </ul>
   </div>
