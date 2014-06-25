@@ -2,7 +2,6 @@
 layout: post
 title:  "Ardbeg Uigeadail"
 date:   2014-06-15 10:32:11
-categories: whisky
 author: Thomas
 img: whisky/uigeadail.jpg
 grades:

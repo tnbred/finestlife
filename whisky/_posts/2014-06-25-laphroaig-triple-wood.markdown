@@ -2,7 +2,6 @@
 layout: post
 title:  "Laphroaig Triple Wood"
 date:   2014-06-25 10:32:11
-categories: whisky
 author: Thomas
 img: whisky/triplewood.jpg
 grades:

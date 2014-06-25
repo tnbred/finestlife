@@ -1,7 +1,7 @@
  <div class="row well"> 
  <div class="row title text-center col-md-12">
   {% assign index_html = 'false' %}
-  {% if page.url == '/index.html' %}
+  {% if page.class == 'index' %}
   {% assign index_html = 'true' %}
   {% endif %}
   {% if index_html == 'true' %}

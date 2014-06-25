@@ -1,0 +1,35 @@
+<div class="col-md-9 articles">
+  {% assign posts = site.posts %}
+  {% if page.category %}
+  {% assign posts = site.categories[page.category] %}
+  {% endif %}
+
+  {% if posts %}
+   {% for post in posts %}
+      {% include post.html %}
+  {% endfor %}
+  {% else %}
+
+<div class="section row"> 
+
+<div class="col-md-offset-2 col-md-8 main_content">
+<h1><p class="text-center">Sorry.. So far there's no post in this category! Don't worry we're working on it ;-)</p></h1>
+</div>
+
+</div>
+  {% endif %}
+</div>
+<div class="col-md-3 home-sidebar col-md-offset-9" data-spy="affix">
+  <img src="/img/062B00.svg" class="img-responsive img-rounded" alt="Responsive image"><br>
+  <ul class="nav nav-list">
+    {% for category in site.data.categories %}
+    {% if category.name == page.category %}
+    <li class="active"><a href="/{{category.link}}"><span class="glyphicon glyphicon-chevron-right"></span> {{category.desc}}</a></li>
+    {% else %}
+    <li><a href="/{{category.link}}">{{category.desc}}</a></li>
+    {% endif %}
+      {% endfor %}
+  </ul>
+  </div>
+
+</div>
