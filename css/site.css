@@ -42,10 +42,8 @@ h1 a{
 }
 
 .articles {
-	color: #000;
+	color: #fff;
 	margin-bottom: 100px;
+	text-align: justify;
 }
 
-.well {
-	background-color: #fff;
-}
