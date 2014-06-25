@@ -47,3 +47,12 @@ h1 a{
 	text-align: justify;
 }
 
+.articles .title {
+	border-bottom-width: thin;
+	border-bottom-style: inherit;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	display: inline-block !important;
+    vertical-align: middle !important;
+}
+
