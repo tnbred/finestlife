@@ -1,0 +1,118 @@
+---
+---
+
+/*
+$color-1: #062B00;
+$color-2: #AA5300;
+$color-3: #2F3646;
+$color-4: #fff;
+*/
+$color-1: #65654B;
+$color-2: #9F9F7D;
+$color-3: #D4D4B0;
+$color-4: #000;
+
+body {
+	font-family: 'Lato', sans-serif;
+	font-size: 21px;
+	background-color:$color-1;
+}
+
+body h1 {
+	font-family: 'Lato', sans-serif;
+}
+
+.row {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+h1 {
+	color:$color-2;
+}
+
+h1 a{
+	color:$color-2;
+}
+
+.main_content {
+	margin-top: 100px;
+}
+
+.home-sidebar {
+	margin-top: 10px;
+	background-color:$color-1;
+}
+
+.home-sidebar a {
+	color: #905D1A;
+}
+
+.home-sidebar ul li a:hover {
+	border-left-style:solid;
+	border-color: $color-4; 
+	background-color: $color-1;
+	color: $color-4;
+}
+
+.articles {
+	margin-bottom: 100px;
+	text-align: justify;
+}
+
+.articles .title {
+	border-bottom-width: thin;
+	border-bottom-style: inherit;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	display: inline-block !important;
+	vertical-align: middle !important;
+}
+
+.authors h3 {
+	border-bottom-width: thin;
+	border-bottom-style: dotted;
+	
+}
+
+.authors small {
+	text-align: justify;
+	font-size: 15px;
+}
+
+.presentation {
+	text-align: center;
+	text-shadow: 0 1px 0 rgba(0,0,0,.1);
+	background-color: $color-1;
+	background-image: -webkit-linear-gradient(top,#fff 0,#fff 100%);
+	background-image: linear-gradient(to bottom,#fff 0,#fff 100%);
+	margin-bottom: 50px;
+	margin-top: 50px;
+	padding-bottom: 50px;
+	color: #000;
+}
+
+.footer {
+	margin-top: 20px;
+}
+
+/* Bootstrap overrides, dirty I know */
+.navbar-inverse {
+background-color: $color-1;
+border-color: $color-1;
+}
+.progress-bar-success {
+background-color: $color-1;
+}
+.progress-bar-warning {
+background-color: $color-2;
+}
+.well {
+	background-color: $color-3;
+	color: $color-4;
+}
+.home-sidebar a {
+color: $color-2;
+}
+
+

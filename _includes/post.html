@@ -5,7 +5,7 @@
   {% assign index_html = 'true' %}
   {% endif %}
   {% if index_html == 'true' %}
-  <h1><a href="{{ post.url }}">Review of {{post.title}} </a><small> , by {{ post.author }} on {{ post.date | date_to_string }}</small> </h1>
+  <h1><a href="{{ post.url }}">Review of {{post.title}} </a><small> , by {{ post.author }} ,  {{ post.date | date_to_string }}</small> </h1>
   {% else %}
   <h1>Review of {{post.title}} <small> , by {{ post.author }} on {{ post.date | date_to_string }}</small> </h1>
   {% endif %}
@@ -14,7 +14,7 @@
   <div class="col-md-12">
 
    <div class="col-md-6">
-   <img src="/img/{{ post.img }} " class="img-responsive img-rounded" alt="Responsive image"><br>
+   <img src="/img/{{ post.img }} " class="img-responsive img-rounded"><br>
    {% for grade in post.grades %}
    {% if grade.class %}
    {% assign class = grade.class %}
@@ -45,9 +45,9 @@
 </div>
 <div class="row col-md-12">
   <div class="pull-right">
-    <a target="_blank" title="Twitter" href="https://twitter.com/share?url={{site.url}}{{ post.url }}&text=Amazing&via=ThomasBredillet" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;"><img src="/img/twitter_icon.png" alt="Twitter" /></a>
-    <a target="_blank" title="Facebook" href="https://www.facebook.com/sharer.php?u={{site.url}}{{ post.url }}&t=Amazing" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;"><img src="/img/facebook_icon.png" alt="Facebook" /></a>
-    <a target="_blank" title="Google +" href="https://plus.google.com/share?url={{site.url}}{{ post.url }} &hl=fr" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;"><img src="/img/gplus_icon.png" alt="Google Plus" /></a>
+    <a target="_blank" title="Twitter" href="https://twitter.com/share?url={{site.url}}{{ post.url }}&text=Amazing&via=ThomasBredillet" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;"><img src="/img/social/twitter_icon.png" alt="Twitter" /></a>
+    <a target="_blank" title="Facebook" href="https://www.facebook.com/sharer.php?u={{site.url}}{{ post.url }}&t=Amazing" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;"><img src="/img/social/facebook_icon.png" alt="Facebook" /></a>
+    <a target="_blank" title="Google +" href="https://plus.google.com/share?url={{site.url}}{{ post.url }} &hl=fr" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;"><img src="/img/social/gplus_icon.png" alt="Google Plus" /></a>
   </div>
 </div>
 </div>

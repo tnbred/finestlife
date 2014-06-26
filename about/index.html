@@ -3,12 +3,38 @@ layout: default
 category: about
 ---
 
-<div class="section row"> 
+<div class="row presentation">
+	<div class="row">
+		<h1>FinestLife, Established opinions.</h1>
+	</div>
+	<div class="row"> 
+		<div class="col-md-4"> 
+			<span class="glyphicon glyphicon-cutlery"></span>
+			<p>We are opinionated food lovers, noble whisky drinkers and elegant live enjoyers! </p>
+		</div>
+		<div class="col-md-4"> 
+			<span class="glyphicon glyphicon-heart-empty"></span>
+			<p>We decided to share some of our discoveries with the world. Who are we ? We are the kind of guys that like to sit down and share quality products with our friends. When we are happy we eat and we drink together.</p>
+		</div>
+		<div class="col-md-4"> 
+			<span class="glyphicon glyphicon-globe"></span>
+			<p>Time for you to distinguish yourself, discover some enjoyable things and spend some quality time with people who are close to you</p>
+		</div>
 
-<div class="col-md-offset-2 col-md-8 main_content">
-<h1><p class="text-center">FinestLife Whiskies & Pâtés will offer you educated opinions on genuine goods.<br/>
-Our Website is currently under construction.<br/>
-We invite you to leave your email address in order to be informed of the completion.</p></h1>
+	</div>
 </div>
+
+<div class="row">
+	{% for author in site.data.authors %}
+	<div class="well col-md-offset-2 col-md-8 authors">
+		<div class="col-md-4">
+			<img src="/img/authors/{{author.img}} " class="img-responsive img-rounded" heigth="300" width="300" alt="{{author.name}}">
+		</div>
+		<div class="col-md-8">
+			<h3>{{author.name}}</h3>
+			<small>{{author.bio}}</small>
+		</div>
+	</div>
+	{% endfor %}
 
 </div>
