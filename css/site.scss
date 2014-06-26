@@ -7,10 +7,11 @@ $color-2: #AA5300;
 $color-3: #2F3646;
 $color-4: #fff;
 */
-$color-1: #65654B;
-$color-2: #9F9F7D;
-$color-3: #D4D4B0;
+$color-1: #948C75;
+$color-2: #7A6A53;
+$color-3: #D9CEB2;
 $color-4: #000;
+$color-5: #99B2B7;
 
 body {
 	font-family: 'Lato', sans-serif;
@@ -112,7 +113,10 @@ background-color: $color-2;
 	color: $color-4;
 }
 .home-sidebar a {
-color: $color-2;
+color: $color-5;
+}
+.navbar-inverse .navbar-nav>li>a {
+color: $color-5;
 }
 
 
