@@ -70,6 +70,10 @@ h1 a{
 	vertical-align: middle !important;
 }
 
+.authors {
+	text-align: justify;
+}
+
 .authors h3 {
 	border-bottom-width: thin;
 	border-bottom-style: dotted;
@@ -77,7 +81,6 @@ h1 a{
 }
 
 .authors small {
-	text-align: justify;
 	font-size: 15px;
 }
 

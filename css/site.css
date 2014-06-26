@@ -50,12 +50,14 @@ h1 a {
   display: inline-block !important;
   vertical-align: middle !important; }
 
+.authors {
+  text-align: justify; }
+
 .authors h3 {
   border-bottom-width: thin;
   border-bottom-style: dotted; }
 
 .authors small {
-  text-align: justify;
   font-size: 15px; }
 
 .presentation {
