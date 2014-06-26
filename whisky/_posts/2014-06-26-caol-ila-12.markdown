@@ -2,7 +2,7 @@
 layout: post
 title:  "Caol Ila 12 Years"
 date:   2014-06-26 10:32:11
-author: Ari
+author: Aristide
 img: whisky/caolila12.jpg
 grades:
   -
