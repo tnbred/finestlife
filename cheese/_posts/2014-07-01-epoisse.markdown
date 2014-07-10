@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Époisse"
+title:  "Époisses"
 date:   2014-07-01 10:32:11
 author: Thomas
 img: cheese/epoisse.jpg
