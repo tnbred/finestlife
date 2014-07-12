@@ -51,7 +51,7 @@ It's a long mellow finish.
 
 
 #Color
-amber with hints of red.
+Amber with hints of red.
 
 #Summary 
 
