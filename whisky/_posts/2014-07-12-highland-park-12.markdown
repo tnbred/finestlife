@@ -34,7 +34,7 @@ Straight from the bottle you can get a very raw spicy impression with coffee-ish
 
 The glass smell is of course more refined, you have an immediate and particularly strong cherry nose, very refreshing and enjoyable. The spices are also present along with some floral/stone fume. It's a delicious combo, fresh and that you will need to hume a few times and deeply to really grasp. The cherry and the spice get more present after a few glasses.
 
-It's also rich that's the second impression you get from the nose.
+The second impression you get from the nose is its richness.
 To me it felt like I was smelling honey cherries next to a very active fireplace, great experience and the smokiness of the smell if perfectly balanced with the rest.
 
 #Palate 
