@@ -32,7 +32,7 @@ The mighty Highland Park. That's a really big one. In my experience whisky afici
 
 Straight from the bottle you can get a very raw spicy impression with coffee-ish side notes. You can somehow tell it's smoothness. 
 
-The glass smell is of course more refined, you have an immediate and particularly strong cherry nose, very refreshing and enjoyable. The spices are also present along with some floral/stone fume. It's a delicious combo, fresh and that you will need to hume a few times and deeply to really grasp. The cherry and the spice gets more present after a few glasses.
+The glass smell is of course more refined, you have an immediate and particularly strong cherry nose, very refreshing and enjoyable. The spices are also present along with some floral/stone fume. It's a delicious combo, fresh and that you will need to hume a few times and deeply to really grasp. The cherry and the spice get more present after a few glasses.
 
 It's also rich that's the second impression you get from the nose.
 To me it felt like I was smelling honey cherries next to a very active fireplace, great experience and the smokiness of the smell if perfectly balanced with the rest.
