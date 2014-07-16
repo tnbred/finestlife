@@ -9,3 +9,7 @@
 - name: cheese
   link: cheese
   desc: Gourmet Cheeses
+
+- name: liquor
+  link: liquor
+  desc: Rare Liquors
