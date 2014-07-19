@@ -43,6 +43,6 @@ It's a great tasting experience, any food lover should try it at least once.
 
 #Summary
 
-The camembert has the roughness of the Normandy farmers that made it and it has a soft dairy core coming from the peaceful cow that provided the milk. Whole in whole it's a must eat cheese. A good one is hard to find but the difference is very noticeable, pasteurized milk adds a sanitizer/plastic taste which greatly changes the roughness of the cheese. There are also so many to way to eat it, you can melt it on pretty much anything and you'll have yourself a fantastic guilty pleasure.
+The camembert has the roughness of the Normandy farmers that made it and it has a soft dairy core coming from the peaceful cow that provided the milk. Whole in whole it's a must eat cheese. A good one is hard to find but the difference is very noticeable, pasteurized milk adds a sanitizer/plastic taste which greatly changes the roughness of the cheese. There are also so many ways to eat it, you can melt it on pretty much anything and you'll have yourself a fantastic guilty pleasure.
 
 #Score
