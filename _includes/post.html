@@ -5,9 +5,9 @@
   {% assign index_html = 'true' %}
   {% endif %}
   {% if index_html == 'true' %}
-  <h1><a href="{{ post.url }}">Review of {{post.title}} </a> <br/> <small>  by {{ post.author }} ,  {{ post.date | date_to_string }}</small> </h1>
+  <h1><a href="{{ post.url }}">Review of {{post.title}} </a> <br/> <small>  by {{ post.author }} ,  {{ post.date | date: "%-d %B %Y" }}</small> </h1>
   {% else %}
-  <h1>Review of {{post.title}} <br/> <small> by {{ post.author }} on {{ post.date | date_to_string }}</small> </h1>
+  <h1>Review of {{post.title}} <br/> <small> by {{ post.author }} on {{ post.date | date: "%-d %B %Y" }}</small> </h1>
   {% endif %}
 </div>
 <div class="row">
