@@ -26,7 +26,7 @@
     {% if category.name == page.category %}
     <li class="active"><a href="/{{category.link}}"><span class="glyphicon glyphicon-chevron-right"></span> {{category.desc}}</a></li>
     {% else %}
-    <li><a href="/{{category.link}}">{{category.desc}}</a></li>
+    <li><a href="/{{category.link}}"><b>{{category.desc}}</b></a></li>
     {% endif %}
       {% endfor %}
   </ul>
