@@ -5,16 +5,16 @@
   {% assign index_html = 'true' %}
   {% endif %}
   {% if index_html == 'true' %}
-  <h1><a href="{{ post.url }}">Review of {{post.title}} </a> <br/> <small>  by {{ post.author }} ,  {{ post.date | date: "%-d %B %Y" }}</small> </h1>
+  <h1><a href="{{ post.url }}">{{post.title}} </a> <br/> <small>  by {{ post.author }} ,  {{ post.date | date: "%-d %B %Y" }}</small> </h1>
   {% else %}
-  <h1>Review of {{post.title}} <br/> <small> by {{ post.author }} on {{ post.date | date: "%-d %B %Y" }}</small> </h1>
+  <h1>{{post.title}} <br/> <small> by {{ post.author }} on {{ post.date | date: "%-d %B %Y" }}</small> </h1>
   {% endif %}
 </div>
 <div class="row">
   <div class="col-md-12">
 
    <div class="col-md-6">
-   <img src="/img/{{ post.img }} " class="img-responsive img-rounded"><br>
+   <img src="/img/{{ post.img }} " class="img-responsive img-rounded" style="width:460px"><br>
    {% for grade in post.grades %}
    {% if grade.class %}
    {% assign class = grade.class %}
