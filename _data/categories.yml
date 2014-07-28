@@ -10,6 +10,10 @@
   link: cheese
   desc: Gourmet Cheeses
 
+- name: cigars
+  link: cigars
+  desc: Aficionado's Cigars
+
 - name: liquor
   link: liquor
   desc: Rare Liquors
