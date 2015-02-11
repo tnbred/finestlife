@@ -30,7 +30,7 @@ Just by smelling the cigar you're already on another land. Huming those majestic
 I lit it up and took my initial puff, I was instantly hooked. Those sweet cedar aromas that fills your palate and transports you elsewhere in a place where time stops. A few more puffs and you start to refine your judgement, to the initial cedar you can add some nice dark choclate and cocoa. The more you progress and the more you will start to get an espresso after taste.
 Of course all this is wrapped into the classic Cohiba earthy mustiness. There's also a nice faint spicy impression coming and going at each puff.
 
-#Conslusion
+#Conclusion
 
 This is a complex cigar, I've given my general impressions but remember it's a handrolled cuban cigar therefore the best part is that you can never really predict what you get. That also means that the smoke will probably not be very even I had to correct it manually a couple times. This isn't a Davidoff don't be afraid to lit it multiple times.
 To me it's one of the best cigars out there, a perfect after dinner delicacy.

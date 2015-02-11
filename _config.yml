@@ -9,3 +9,4 @@ url: "http://www.finestlife.co"
 # Build settings
 markdown: kramdown
 permalinks: pretty
+paginate: 5
