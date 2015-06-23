@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Magret d'Oie fumé"
-date:   2015-05-16 02:00:00
+date:   2015-06-15 02:00:00
 author: Aristide
 img: pate/magret.jpg
 grades:
