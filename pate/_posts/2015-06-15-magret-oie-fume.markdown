@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Magret d'Oie fumé"
+title:  "Terrine de campagne au magret d'oie fumé"
 date:   2015-06-15 02:00:00
 author: Aristide
 img: pate/magret.jpg
