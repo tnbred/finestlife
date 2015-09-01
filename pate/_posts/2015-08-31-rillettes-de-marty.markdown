@@ -20,7 +20,7 @@ grades:
 #Introduction
 
 The Marty 's farm is settled in the heart of the Xaintrie Noire (Corrèze, France). 
-The farm (that can be visited during summer) produce and commercialize those rillettes (among others slating and pâtés). 
+The farm (that can be visited during summer) produce and commercialize those rillettes (among others salting and pâtés). 
 
 #Composition
 
