@@ -19,7 +19,7 @@ grades:
 
 #Introduction
 
-Back in the Périgord Noir with the Maison Vaux. Today, I'll try the Duck terrine with Armagnac.
+Back in the Périgord Noir with the Maison Vaux. Today, I'm excited to try the Duck terrine with Armagnac.
 
 #Composition
 
@@ -31,7 +31,7 @@ The can design is quite trendy for a pâté, which I appreciate.
 The nose is delicate with subtle fragrances of Armagnac.
 The burgundy color due to the duck meat is really nice with the shards of fat.
 
-The palate is powerful just as it has to be. I loved the balance between spices and the Armagnac. Moreover the fine taste of Armagnac add a fruity hint very interesting.
+The palate is powerful just as it has to be. I loved the balance between spices and the Armagnac. Moreover the fine taste of Armagnac add a fruity hint very interesting. 
 
 #Conclusion
 
