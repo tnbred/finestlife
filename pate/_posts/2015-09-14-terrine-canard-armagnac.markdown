@@ -36,7 +36,7 @@ The palate is powerful just as it has to be. I loved the balance between spices 
 #Conclusion
 
 I really enjoyed this local terrine from the Périgord and I definitely recommend it. It's a great way
-to discover those subtle armagnac terrine.
+to discover those subtle armagnac terrine. If you liked it I would recommend checking out other Maison Vaux products.
 
 
 #Score
