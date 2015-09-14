@@ -3,7 +3,7 @@ layout: post
 title:  "Terrine de canard à l'Armagnac"
 date:   2015-09-14 08:39:00
 author: Aristide
-img: pate/canardarmagnac.jpg
+img: pate/canard.jpg
 grades:
   -
     name: Aspect
